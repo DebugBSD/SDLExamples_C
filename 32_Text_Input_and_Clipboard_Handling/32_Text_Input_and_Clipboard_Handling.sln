@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32_Text_Input_and_Clipboard_Handling", "32_Text_Input_and_Clipboard_Handling\32_Text_Input_and_Clipboard_Handling.vcxproj", "{BBBC9CB5-911A-489E-89B5-27658E8092AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBC9CB5-911A-489E-89B5-27658E8092AA}.Debug|x64.ActiveCfg = Debug|x64
+		{BBBC9CB5-911A-489E-89B5-27658E8092AA}.Debug|x64.Build.0 = Debug|x64
+		{BBBC9CB5-911A-489E-89B5-27658E8092AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBBC9CB5-911A-489E-89B5-27658E8092AA}.Debug|x86.Build.0 = Debug|Win32
+		{BBBC9CB5-911A-489E-89B5-27658E8092AA}.Release|x64.ActiveCfg = Release|x64
+		{BBBC9CB5-911A-489E-89B5-27658E8092AA}.Release|x64.Build.0 = Release|x64
+		{BBBC9CB5-911A-489E-89B5-27658E8092AA}.Release|x86.ActiveCfg = Release|Win32
+		{BBBC9CB5-911A-489E-89B5-27658E8092AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D8A094-5C20-4757-A83C-15894D32320D}
+	EndGlobalSection
+EndGlobal
