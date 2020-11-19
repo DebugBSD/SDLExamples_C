@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\hidapi\android\hid.cpp">
+      <Filter>src\hidapi\android</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{190b7612-9820-4f08-b44b-7b20a021ab79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\hidapi">
+      <UniqueIdentifier>{150815f2-f980-48b3-a373-dc04b1b4b255}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\hidapi\android">
+      <UniqueIdentifier>{a135b467-4951-4cce-a09a-c5c910095ad2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
